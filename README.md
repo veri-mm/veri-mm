@@ -1,6 +1,6 @@
 <br>
 <p align = center>
-<img src = "hello-world.png" alt = "hello world" width = "400">
+<img src = "https://raw.githubusercontent.com/veri-mm/veri-mm/master/hello-world.png" alt = "hello world" width = "400">
 </p>
 <br>
 

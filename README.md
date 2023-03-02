@@ -1,16 +1,16 @@
 <br>
 <p align = center>
-<img src = "https://raw.githubusercontent.com/veri-mm/veri-mm/master/hello-world-02.png" alt = "hello world" width = "400">
+<img src = "https://raw.githubusercontent.com/veri-mm/veri-mm/master/hello-world-02.png" alt = "Hello, world" width = "500">
 </p>
 <br>
 
-Welcome to my GitHub! I'm Veridiana, a Architecture and Urbanism graduate who's transitioning into web development. Through self-study and enrolling in online courses I am preparing myself to become a Web developer!
+Welcome to my GitHub! I'm Veridiana, a Architecture and Urbanism graduate who transitioned to development. I'm now working as a Front-end developer and enrolled in Systems Analysis and Development graduation course.
 
 ### I'm currently learning
- - HTML | CSS | JavaScript | Git
+ - TypeScript | React | JavaScript | Php | HTML | CSS | Git
 
 ### Design softwares I'm familiar with
- - Photoshop | InDesign | Illustrator
+ - Figma | Photoshop | InDesign
  
 ### Get in touch
  - Linkedin: <a href = "https://www.linkedin.com/in/veridiana-m%C3%A1ximo-/">veridiana-máximo</a>

@@ -4,7 +4,7 @@
 </p>
 <br>
 
-Welcome to my GitHub! I'm Veridiana, a Architecture and Urbanism graduate who transitioned to development. I'm now working as a Front-end developer and enrolled in Systems Analysis and Development graduation course.
+Welcome to my GitHub! I'm Veridiana, graduated in Architecture and Urbanism who transitioned to development. I'm now working as a Front-end developer and enrolled in Systems Analysis and Development graduation course.
 
 ### I'm currently learning
  - TypeScript | React | JavaScript | Php | HTML | CSS | Git
